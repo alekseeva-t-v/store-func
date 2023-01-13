@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import ItemModel from '../models/ItemModel';
 
 function ShopItemFunc(props) {
   const { item } = props;
@@ -26,7 +25,7 @@ function ShopItemFunc(props) {
 }
 
 ShopItemFunc.propTypes = {
-  item: PropTypes.instanceOf(ItemModel).isRequired,
+  item: PropTypes.object.isRequired,
 };
 
 export default ShopItemFunc;
