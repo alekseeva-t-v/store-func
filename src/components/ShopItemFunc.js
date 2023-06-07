@@ -1,5 +1,10 @@
 import PropTypes from 'prop-types';
 
+/**
+ * Компонент отображающий карточку интернет магазина
+ *
+ * @param {object} props.item объект с данными товара, которые необходимо отобразить на карточке товара интернет магазина
+ */
 function ShopItemFunc(props) {
   const { item } = props;
 
