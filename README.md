@@ -2,13 +2,13 @@
 
 Учебный проект курса [React для JS-разработчиков](https://netology.ru/programs/react)
 
-## Задача
+## **Задача**
 
 Создание React-компонента ShopItemFunc (функциональный компонент), с помощью которого возможно реализовывать представление информации о товарах из каталога на сайте в таком виде (компонент обведён пунктирной линией):
 
 ![preview](./public/images/preview.png)
 
-## Описание компонента
+## **Описание компонента**
 
 Компонент должен иметь один props `item`, в котором он ожидает объект с информацией о товаре со следующими свойствами:
 
@@ -37,5 +37,12 @@
   </div>
 </div>
 ```
-## [Демо](https://store-func.vercel.app/)
+## **Стек технологий**
+<img src="https://img.shields.io/badge/HTML-161130?style=for-the-badge&logo=html5&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/CSS-161130?style=for-the-badge&logo=css3&logoColor=0091d5"/>
+<img src="https://img.shields.io/badge/JavaScript-161130?style=for-the-badge&logo=javascript&logoColor=efd81d"/>
+<img src="https://img.shields.io/badge/GIT-161130?style=for-the-badge&logo=git&logoColor=E84E31"/>
+<img src="https://img.shields.io/badge/REACT-161130?style=for-the-badge&logo=react&logoColor=ЦВЕТ ЛОГОТИПА"/>
+
+## [**Демо**](https://store-func.vercel.app/)
 ![demo](./public/images/demo.jpg)
