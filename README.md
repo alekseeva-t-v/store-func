@@ -38,11 +38,11 @@
 </div>
 ```
 ## **Стек технологий**
-<img src="https://img.shields.io/badge/HTML-161130?style=for-the-badge&logo=html5&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/CSS-161130?style=for-the-badge&logo=css3&logoColor=0091d5"/>
-<img src="https://img.shields.io/badge/JavaScript-161130?style=for-the-badge&logo=javascript&logoColor=efd81d"/>
-<img src="https://img.shields.io/badge/GIT-161130?style=for-the-badge&logo=git&logoColor=E84E31"/>
-<img src="https://img.shields.io/badge/REACT-161130?style=for-the-badge&logo=react&logoColor=ЦВЕТ ЛОГОТИПА"/>
+![HTML](./public/images/html.svg)
+![CSS](./public/images/css.svg)
+![JS](./public/images/js.svg)
+![GIT](./public/images/git.svg)
+![REACT](./public/images/react.svg)
 
 ## [**Демо**](https://store-func.vercel.app/)
 ![demo](./public/images/demo.jpg)
